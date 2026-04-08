@@ -1,12 +1,20 @@
-# Stock Price Prediction (Deep Learning)
+# Stock Price Prediction using Deep Learning
 
-This repository contains coursework notebooks for stock-price forecasting experiments using sequence models.
+Time-series forecasting project for stock closing prices using sequence deep learning models.
+
+## Tech Stack
+- Python
+- Deep Learning (LSTM/RNN)
+- Time-Series Analysis
+
+## Project Summary
+Built a forecasting workflow using historical market data with preprocessing, windowing, model training, and evaluation.
 
 ## Contents
-
 - `AMLTEAM_3.ipynb`
 - `AMLTwo_2006363.ipynb`
 
-## Notes
-
-- This repo is prepared as a resume portfolio artifact from academic project work.
+## Resume Highlights
+- Implemented sequence models for financial time-series.
+- Applied preprocessing and feature normalization strategies.
+- Evaluated model quality with regression metrics.
